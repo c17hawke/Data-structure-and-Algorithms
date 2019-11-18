@@ -8,5 +8,4 @@ You just need to install Anaconda so that we can code in python3. Later on we wi
 
 ## Reference Books-
 
-**Data Structures and Algorithms in Python Paperback – 2016
-by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser**
+**Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser**
