@@ -1,4 +1,4 @@
-# Data structure and algorithm
+# Data Structure and Algorithms
 
 This is a project of my persuit to learn DSA in detail. I'll try to put as much content and code as possible to improve myself in this core area.
 
